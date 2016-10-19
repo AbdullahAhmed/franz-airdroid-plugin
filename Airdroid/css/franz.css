@@ -1,3 +1,8 @@
 #modal-login-only {
 	visibility: visible;
 }
+
+/*Hide the ad window that pops up on bottom right*/
+div.notifications_ad {
+	display: none;
+}
