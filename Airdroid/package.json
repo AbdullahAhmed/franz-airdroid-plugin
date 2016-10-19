@@ -1,0 +1,23 @@
+{
+  "name": "AirDroid",
+  "version": "1.0.0",
+  "description": "AirDroid | Delight Your Multi-Screen Life",
+  "main": "index.js",
+  "author": "Abdullah Ahmed <abdullah@alpha2labs.com>",
+  "license": "GPL",
+  "config": {
+    "serviceURL": "http://web.airdroid.com/",
+    "serviceName": "AirDroid",
+    "message": "AirDroid - Delight Your Multi-Screen Life",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
